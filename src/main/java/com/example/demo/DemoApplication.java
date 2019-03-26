@@ -15,7 +15,7 @@ public class DemoApplication {
 
 	@GetMapping
 	public String index(){
-		return "version:1.0";
+		return "version:2.0";
 	}
 
 
